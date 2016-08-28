@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<usuarios>
+    <personas>
+        <id_persona>
+            1
+        </id_persona>
+        <nom>
+            César Cancino
+        </nom>
+        <correo>
+            yo@cesarcancino.com
+        </correo>
+    </personas>
+
+    <personas>
+        <id_persona>
+            2
+        </id_persona>
+        <nom>
+            Margarita Ñandú
+        </nom>
+        <correo>
+            hola@hola.com
+        </correo>
+    </personas>
+
+    <personas>
+        <id_persona>
+            3
+        </id_persona>
+        <nom>
+            Juan Martínez
+        </nom>
+        <correo>
+            chao@hola.com
+        </correo>
+    </personas>
+
+    <personas>
+        <id_persona>
+            4
+        </id_persona>
+        <nom>
+            Jorge Yáñez
+        </nom>
+        <correo>
+            jorjito@hola.com
+        </correo>
+    </personas>
+
+</usuarios>
